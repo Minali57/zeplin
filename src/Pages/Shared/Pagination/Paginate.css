@@ -1,0 +1,13 @@
+.pagination {
+  --bs-pagination-active-color: white !important;
+  --bs-pagination-active-bg: orange !important;
+  --bs-pagination-color: black !important;
+  --bs-pagination-active-border-color: orange !important;
+}
+.pagi {
+  display: flex;
+  justify-content: center;
+}
+.page-item {
+  margin: 10px;
+}

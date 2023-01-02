@@ -1,0 +1,19 @@
+.form-control::-webkit-input-placeholder {
+  color: #8b8989 !important;
+}
+.rdl-move.rdl-move-all.rdl-move-right {
+  display: none !important;
+}
+.rdl-move.rdl-move-all.rdl-move-left {
+  display: none !important;
+}
+.rdl-move.rdl-move-right,.rdl-move.rdl-move-left{
+border: 0;
+}
+.rdl-control {
+  height: 250px;
+}
+
+.form-control::-webkit-input-placeholder {
+  color: #8b8989 !important;
+}
